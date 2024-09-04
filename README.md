@@ -1,7 +1,8 @@
 # Environmental-Data-Scientist
-![GREEN PRAXIS](image/git_branch.jpg)
+![GREEN PRAXIS](image/Green-Praxis.jpg)
 
-# creation of a model to enable us to predict the carbon content of soil based on soil and plant characteristics.
+# Goal:
+cCreation of a model to enable us to predict the carbon content of soil based on soil and plant characteristics.
 
 ## datasets
 ● Take the two RMQS excel sheets in data folder.
@@ -11,3 +12,4 @@
     ○ The features we will use For the description of explicative variables, see the pdf file in this directory.
 
 ## Model
+Random Forest
